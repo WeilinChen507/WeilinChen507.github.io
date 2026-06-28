@@ -123,6 +123,12 @@ li {
   margin-top: 2px;
 }
 
+.pub-note {
+  margin-top: -4px;
+  color: #52606d;
+  font-size: 0.95rem;
+}
+
 .publications {
   padding-left: 24px;
 }
@@ -130,6 +136,15 @@ li {
 .publications li {
   margin: 9px 0;
   line-height: 1.45;
+}
+
+.pub-links {
+  white-space: nowrap;
+}
+
+.pub-links a {
+  margin-left: 6px;
+  font-weight: 600;
 }
 
 #footer {
@@ -169,4 +184,5 @@ img {
     text-align: left;
   }
 }
+
 
