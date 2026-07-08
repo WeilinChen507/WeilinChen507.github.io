@@ -55,8 +55,9 @@ a:hover {
 }
 
 .contact-lines a {
-  font-weight: 600;
-  margin-right: 14px;
+  color: #17375e;
+  font-weight: bold;
+  margin-right: 0;
 }
 
 .portrait {
