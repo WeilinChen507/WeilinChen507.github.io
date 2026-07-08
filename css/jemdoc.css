@@ -1,4 +1,4 @@
-﻿html {
+html {
   background: #edf0f5;
 }
 
@@ -49,15 +49,14 @@ a:hover {
   font-size: 1.18rem;
 }
 
-.links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px 14px;
+.contact-lines {
   margin-top: 18px;
+  line-height: 1.65;
 }
 
-.links a {
+.contact-lines a {
   font-weight: 600;
+  margin-right: 14px;
 }
 
 .portrait {
